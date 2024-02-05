@@ -8,13 +8,11 @@ As a treasurer and executive board leader for the Girls Who Code club at BU, I d
 
 ## Some of the workshops and classes that I taught
 
-### GWC Bits Intro Lesson 1: Introduction to Scratch for Elementary Schoolers
-- **File:** GWC Bits Intro Lesson 1.pdf
-- A beginner's guide to Scratch, designed to spark interest in programming through interactive stories and games.
+### GWC Bits
+- A beginner's guide to Scratch, designed to spark interest in programming through interactive stories and games. We taught weekly classes to elementary school students over Zoom covering the fundamentals of Scratch and programming, and helped the students to create their own version of Flappy Bird.
 
-### GWC Bytes Advanced Lesson 7: Python Programming and Cryptography for Middle Schoolers
-- **File:** GWC Bytes Advanced Lesson 7.pdf
-- An advanced lesson on Python, focusing on more complex concepts suitable for middle school students ready to dive deeper into coding.
+### GWC Bytes
+- An advanced lesson on Python, focusing on more complex concepts suitable for middle school students ready to dive deeper into coding. Weekly classes for both beginners and advanced students, aimed to give students the tools they need for entering the programming world.
 
 ### GWC GitHub Slides: Using GitHub for College Members
 - **File:** GWC Github Slides.pdf
@@ -31,12 +29,8 @@ Beyond these specific lessons, I also led workshops in:
 - **JavaScript:** I contributed to a more advanced workshop covering async/await and good coding practices within JavaScript.
 - **Treasury:** I taught the functions of the treasurer's role within a student led club, and how to plan and budget expenses throughout a semester.
 
-## Contributing
-
-While this repository is a personal collection of my work with the Girls Who Code club at BU, I am open to contributions, suggestions, and collaborations.
-
 ## Contact
 
-For more information about these materials, my teaching approach, or to discuss potential collaborations, please contact me at sabeernarula47@gmail.com.
+For more information about these materials or questions you may have, please contact me at sabeernarula47@gmail.com.
 
 
